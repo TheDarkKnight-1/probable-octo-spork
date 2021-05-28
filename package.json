@@ -1,0 +1,25 @@
+{
+  "name": "probable-octo-spork",
+  "version": "1.0.0",
+  "description": "Video Streaming Service Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDarkKnight-1/probable-octo-spork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDarkKnight-1/probable-octo-spork/issues"
+  },
+  "homepage": "https://github.com/TheDarkKnight-1/probable-octo-spork#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "npm": "^7.15.0",
+    "start": "^5.1.0"
+  }
+}
